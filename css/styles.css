@@ -13,7 +13,9 @@ html
     text-align: center;
 }
 .centralcontent {
-    margin: 0 5%;
+    margin-left: auto;
+    margin-right: auto;
+	width: 50em;
 }
 .foto {
     padding: 10px;
